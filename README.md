@@ -1,1 +1,3 @@
-# TestPackage
+# GMChartsPackage
+
+A description of this package.
